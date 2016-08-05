@@ -1,2 +1,2 @@
 # MemeApp
-App demostrating UI Kit Fundamentals
+App demonstrating UI Kit Fundamentals
