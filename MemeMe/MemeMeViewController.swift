@@ -207,4 +207,3 @@ class MemeMeViewController: UIViewController, UIImagePickerControllerDelegate, U
         navBar.hidden = !navBar.hidden
     }
 }
-
