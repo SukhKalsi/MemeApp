@@ -42,7 +42,7 @@ class MemeMeTextfieldDelegate: NSObject, UITextFieldDelegate {
         
         // If we have upper case, then we directly edit the text field...
         if string.capitalizedString != string {
-            textField.text = textField.text + string.capitalizedString
+            textField.text = textField.text! + string.capitalizedString
             return false
         }
         
